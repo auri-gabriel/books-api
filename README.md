@@ -35,7 +35,7 @@ This is a RESTful API for managing books, built with Spring Boot. It supports fu
 ### Steps
 
 1. Clone the repository:  
-   `git clone https://github.com/your-username/book-api.git`  
+   `git clone https://github.com/auri-gabriel/books-api.git`  
    `cd book-api`  
 
 2. Build and run:  
